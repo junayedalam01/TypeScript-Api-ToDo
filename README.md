@@ -177,7 +177,3 @@ Error example:
 | `Converting circular structure to JSON` | Missing `await` on a Mongoose query            |
 | `Cast to ObjectId failed`               | Invalid id, or `req.params` passed instead of `req.params.id` |
 | `Cannot GET /...`                       | Wrong URL or route path                        |
-
-## License
-
-MIT
